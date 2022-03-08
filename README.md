@@ -1,4 +1,6 @@
 <h1 align="center">Incicle Backend Test</h1>
 
 ## ⚙️ Como rodar?
-Todas as instruções estão na pasta de sua respectiva API.
+Crie um banco com as queries do arquivo 'create-database.sql'
+
+Todas as outras instruções estão na pasta de sua respectiva API.
