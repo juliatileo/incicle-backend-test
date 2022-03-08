@@ -14,7 +14,7 @@ cp .env .env.example
 ### Crie a key de encriptação do app
 php artisan key:generate
 
-### Crie seu banco de dados ou use um já existente e adicione as informações no .env
+### Adicione as informações do seu banco de dados no .env
 
 ### Inicie o servidor
 php artisan serve
